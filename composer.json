@@ -18,6 +18,12 @@
     "psr-4": {
       "sergikdoc\\Robo\\Task\\": "./src/"
     }
-  }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/sergik-doc/robo-tasks.git"
+    }
+  ]
 }
 
