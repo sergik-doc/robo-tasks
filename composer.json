@@ -1,5 +1,6 @@
 {
   "name": "sergikdoc/robo-tasks",
+  "version": "1.0.0",
   "description": "description",
   "minimum-stability": "stable",
   "type": "robo-tasks",
