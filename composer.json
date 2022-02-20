@@ -1,6 +1,7 @@
 {
   "name": "sergikdoc/robo-tasks",
   "description": "description",
+  "minimum-stability": "stable",
   "type": "robo-tasks",
   "license": "GPL-2.0-or-later",
   "authors": [
