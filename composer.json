@@ -1,0 +1,21 @@
+{
+  "name": "sergikdoc/robo-tasks",
+  "description": "description",
+  "type": "robo-tasks",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Sergii Dovhyi",
+      "email": "sergikdoc@gmail.com"
+    }
+  ],
+  "require": {
+    "consolidation/robo": "^3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "sergikdoc\\Robo\\Task\\": "./src/"
+    }
+  }
+}
+
